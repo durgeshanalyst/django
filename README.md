@@ -1,12 +1,31 @@
-# django
-A comprehensive training end to end on django.
-# Installation
-- 1. Open Power shell
-- 2. <python> and press enter
-- 3. if python install:
-    1. pip install django
-    ![Image](image.png)
-- 3. if python not install, install latest version first
-    - 1. To install in same powercell write python and press enter
-    - 2. Get it from microsoft store
+# Django Training Guide
 
+A comprehensive end-to-end training guide on Django.
+
+## Installation
+
+Follow these steps to install Django:
+
+1. Open PowerShell.
+
+2. Type the following command and press Enter:
+
+3. If Python is installed:
+
+1. Install Django by running this command:
+   ```
+   pip install django
+   ```
+  ![Django installation](image-1.png)
+
+2. If Python is not installed, follow these steps:
+
+   - To install Python in the same PowerShell, type:
+     ```
+     python
+     ```
+     and press Enter.
+
+   - Alternatively, you can get Python from the Microsoft Store.
+
+Now, your markdown document is more organized and easier to follow. If you have any more questions or need further assistance, feel free to ask!
