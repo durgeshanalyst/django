@@ -15,8 +15,9 @@ python -m venv <name_venv>
 <name_venv>/Scripts/activate
 ```
 ## if you will get error like below
-![error venv](image.png)
+![Error](image-2.png)
 ## Follow to resolve
+![Solution](image-3.png)
 ```
 set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
 ```
