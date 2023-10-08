@@ -15,9 +15,7 @@ python -m venv <name_venv>
 <name_venv>/Scripts/activate
 ```
 ## if you will get error like below
-![Error](image-2.png)
 ## Follow to resolve
-![Solution](image-3.png)
 ```
 set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
 ```
@@ -42,7 +40,6 @@ Follow these steps to install Django:
    ```
    pip install django
    ```
-  ![Django installation](image-1.png)
 
 2. If Python is not installed, follow these steps:
 
