@@ -2,17 +2,42 @@
 
 A comprehensive end-to-end training guide on Django.
 
+# Environment setting
+1. Create djnago named folder anywhere in PC
+2. Open in VS code
+3. Open terminal
+4. Use below code for virtual environment
+```
+python -m venv <name_venv>
+```
+## Activate the environment
+```
+<name_venv>/Scripts/activate
+```
+## if you will get error like below
+![error venv](image.png)
+## Follow to resolve
+```
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+```
+
+```
+Get-ExecutionPolicy
+```
+
+```
+Get-ExecutionPolicy -list
+```
+```
+<name_venv>/Scripts/activate
+```
+
 ## Installation
 
 Follow these steps to install Django:
+1. If Python is installed:
 
-1. Open PowerShell.
-
-2. Type the following command and press Enter:
-
-3. If Python is installed:
-
-1. Install Django by running this command:
+1. Install Django by running this command in same terminal:
    ```
    pip install django
    ```
@@ -27,5 +52,3 @@ Follow these steps to install Django:
      and press Enter.
 
    - Alternatively, you can get Python from the Microsoft Store.
-
-Now, your markdown document is more organized and easier to follow. If you have any more questions or need further assistance, feel free to ask!
